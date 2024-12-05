@@ -1,6 +1,3 @@
-
-Aqui está um exemplo de README.md para o projeto do cartão dinâmico:
-
 Cartão Dinâmico com Formulário
 Descrição do Projeto
 O Cartão Dinâmico é um projeto simples e interativo que permite ao usuário preencher um formulário com suas informações (como nome, e-mail e telefone) e visualizar essas informações em tempo real em um cartão estilizado.
